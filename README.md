@@ -10,3 +10,15 @@
 
 # CTF Writeups
 - [CTF Writeups Collection](https://ctftime.org/writeups?tags=web200&hidden-tags=web%2cweb100%2cweb200)
+
+# Blogs
+- [How To Do Your Reconnaissance Properly Before Chasing A Bug Bounty](https://medium.com/bugbountywriteup/guide-to-basic-recon-bug-bounties-recon-728c5242a115)
+- [Various blogs about bug bounty](https://github.com/Avileox/BB-SH-B)
+- [James Kettle Blog @albinowax](https://skeletonscribe.net/#bio)
+- [Labs Detectify](https://labs.detectify.com/)
+- [Portswigger blog](https://portswigger.net/blog)
+
+# Newsletter
+- [AppSec Ezine Archive](https://github.com/Simpsonpt/AppSecEzine)
+- [Pentesterland Archive](https://pentester.land/newsletter)
+- [BugBytes intigriti](https://blog.intigriti.com/category/bugbytes/) : maintained by Pentesterland
